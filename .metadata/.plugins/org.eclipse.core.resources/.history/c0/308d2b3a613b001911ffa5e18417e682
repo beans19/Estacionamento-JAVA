@@ -1,0 +1,23 @@
+package br.senai.sp.view;
+
+import javax.swing.JFrame;
+import javax.swing.JTable;
+
+public class FrmPrincipal extends JFrame {
+
+	public FrmPrincipal() {
+		setTitle("Academia");
+		setSize(500, 500);
+		setLayout(null);
+		setDefaultCloseOperation(EXIT_ON_CLOSE);
+		
+		JTable tabela = new JTable();
+		tabela.setBounds(10, 10, 300, 300);
+		
+		//vetor com o cabeçalho da tabela
+		
+		String[] cabecalho = {"CÓD.","NOME","E-MAIL"};
+		
+		setVisible(true);
+	}
+}

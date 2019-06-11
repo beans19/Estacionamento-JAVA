@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="br.senai.sp.model.Funcionario"/>
+<fullyQualifiedTypeName name="java.awt.event.ActionEvent"/>
+<fullyQualifiedTypeName name="javax.swing.ImageIcon"/>
+<fullyQualifiedTypeName name="java.io.ByteArrayInputStream"/>
+<fullyQualifiedTypeName name="java.awt.Image"/>
+<fullyQualifiedTypeName name="javax.imageio.ImageIO"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="javax.swing.JPanel"/>
+<fullyQualifiedTypeName name="javax.swing.border.TitledBorder"/>
+<fullyQualifiedTypeName name="javax.swing.BorderFactory"/>
+<fullyQualifiedTypeName name="javax.swing.border.Border"/>
+<fullyQualifiedTypeName name="br.senai.sp.dao.AlunoDAO"/>
+<fullyQualifiedTypeName name="br.senai.sp.view.FrmAluno"/>
+<fullyQualifiedTypeName name="java.awt.Color"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="javax.swing.UIManager"/>
+<fullyQualifiedTypeName name="java.awt.event.FocusListener"/>
+<fullyQualifiedTypeName name="java.awt.event.MouseListener"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="javax.swing.JScrollPane"/>
+<fullyQualifiedTypeName name="br.senai.sp.dao.Conexao"/>
+<fullyQualifiedTypeName name="java.awt.Font"/>
+<fullyQualifiedTypeName name="br.senai.sp.view.FrmEntrada"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.awt.event.WindowEvent"/>
+<fullyQualifiedTypeName name="java.awt.event.WindowListener"/>
+<fullyQualifiedTypeName name="br.senai.sp.view.FrmSaida"/>
+<fullyQualifiedTypeName name="br.senai.sp.view.FrmPrincipal"/>
+<fullyQualifiedTypeName name="br.senai.sp.model.Cliente"/>
+<fullyQualifiedTypeName name="br.senai.sp.dao.ClienteDAO"/>
+<fullyQualifiedTypeName name="br.senai.sp.model.Calculos"/>
+<fullyQualifiedTypeName name="br.senai.sp.utils.Data"/>
+<fullyQualifiedTypeName name="javax.swing.JLabel"/>
+<fullyQualifiedTypeName name="javax.swing.JTextField"/>
+<fullyQualifiedTypeName name="javax.swing.JButton"/>
+<fullyQualifiedTypeName name="javax.swing.JDialog"/>
+<fullyQualifiedTypeName name="br.senai.sp.view.FrmLogin"/>
+<fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+<fullyQualifiedTypeName name="br.senai.sp.model.Usuario"/>
+<fullyQualifiedTypeName name="br.senai.sp.dao.UsuarioDAO"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="javax.swing.JFrame"/>
+<fullyQualifiedTypeName name="javax.swing.JPasswordField"/>
+</qualifiedTypeNameHistroy>

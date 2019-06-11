@@ -1,0 +1,42 @@
+package br.senai.sp.view;
+
+import javax.swing.JFrame;
+import javax.swing.JScrollBar;
+import javax.swing.JScrollPane;
+import javax.swing.JTable;
+import javax.swing.table.DefaultTableModel;
+
+public class FrmPrincipal extends JFrame {
+
+	public FrmPrincipal() {
+		setTitle("Academia");
+		setSize(500, 500);
+		setLayout(null);
+		setDefaultCloseOperation(EXIT_ON_CLOSE);
+		
+		JTable tabela = new JTable();
+		
+		//vetor com o cabeçalho da tabela
+		
+		String[] cabecalho = {"CÓD.","NOME","E-MAIL"};
+		
+		//matriz com os dados da tabela
+		String[][] dados = {
+				{"001", "Pedro da Silva", "pedro@uol.com.br"},
+				{"002", "Maria da Silva", "maria@uol.com.br"},
+				{"003", "João da Silva", "joão@uol.com.br"},
+				{"004", "Ana da Silva", "ana@uol.com.br"}
+				};
+		
+		DefaultTableModel modelo = new DefaultTableModel(dados, cabecalho);
+		tabela.setModel(modelo);
+		
+		JScrollPane scroll = new JScrollPane();
+		scroll.setBounds(10, 10, 500, 500);
+		scroll.setViewportView(tabela);
+		
+		getContentPane().add(scroll);
+		
+		setVisible(true);
+	}
+}

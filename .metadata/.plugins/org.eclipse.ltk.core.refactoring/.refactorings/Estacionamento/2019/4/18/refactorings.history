@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;dataNascimentoDate&apos; in &apos;br.senai.sp.utils.Data.calcularDataSaida(...)&apos; to &apos;dataEntradaDate&apos;&#x0D;&#x0A;- Original project: &apos;Estacionamento&apos;&#x0D;&#x0A;- Original element: &apos;br.senai.sp.utils.Data.calcularDataSaida(String).dataNascimentoDate&apos;&#x0D;&#x0A;- Renamed element: &apos;dataNascimentoDate&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;dataNascimentoDate&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;br.senai.sp.utils{Data.java[Data~calcularDataSaida~QString;@dataNascimentoDate!1513!1543!1518!1535!QDate;!0!false" name="dataEntradaDate" references="true" stamp="1556544464048" version="1.0"/>
+</session>

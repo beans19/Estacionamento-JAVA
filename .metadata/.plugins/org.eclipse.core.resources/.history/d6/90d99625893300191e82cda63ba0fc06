@@ -1,0 +1,21 @@
+package br.senai.sp.app;
+
+import br.senai.sp.model.Cliente;
+import br.senai.sp.model.CalculoIMC;
+
+public class App {
+	
+	public CalculoIMC imc;
+	
+	public static void main(String[] args) {
+		Cliente joão = new Cliente();
+		joão.nome = "João da Silva";
+		joão.idade = 18;
+		joão.altura = 185;
+		joão.peso=80;
+		joão.sexo='M';
+		
+		CalculoIMC joão1 = new CalculoIMC();
+		System.out.println(joão1.calculoIMC(80, 180));
+	}
+}

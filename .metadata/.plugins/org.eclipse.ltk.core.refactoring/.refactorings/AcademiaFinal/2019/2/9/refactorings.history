@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;br.senai.sp.view.Frm&apos; to &apos;FrmPrincipal&apos;&#x0D;&#x0A;- Original project: &apos;AcademiaFinal&apos;&#x0D;&#x0A;- Original element: &apos;br.senai.sp.view.Frm&apos;&#x0D;&#x0A;- Renamed element: &apos;br.senai.sp.view.FrmPrincipal&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Frm&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;br.senai.sp.view{Frm.java[Frm" matchStrategy="1" name="FrmPrincipal" qualified="false" references="true" similarDeclarations="false" stamp="1551360495966" textual="false" version="1.0"/>
+</session>
